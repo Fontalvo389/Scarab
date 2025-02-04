@@ -31,4 +31,5 @@ Uso de ChatGPT para:
 5. Seleccionar carpeta de destino
 6. El proyecto se descargará.7
 
+APK: carpeta debug
 ```
